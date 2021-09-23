@@ -1,4 +1,0 @@
-Antonov 20000
-Ivanov 30000
-Maximov 60000
-Doberman 90000

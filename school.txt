@@ -1,3 +1,0 @@
-Computer_Science: 100(lec) 50(pr) 20(lab).
-Physics: 30(lec) - 10(lab)
-Physical_Culture: - 30(pr)
